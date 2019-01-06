@@ -1,0 +1,2 @@
+# Mammography-Image-Corpus
+The purpose of this project is to build a Mammography Image Corpus in order to oust the existing mechanism which lacks the proper storage and interface for the data. The target is an interface using which the end users will be abl e to study these images and generate annotations on them. Mammography Image Corpus serves as an excellent tool for data collection and storage. It has been designed considering the needs of a radiologists and the possibility that the data collected can be used by researcher in the field of breast cancer.
